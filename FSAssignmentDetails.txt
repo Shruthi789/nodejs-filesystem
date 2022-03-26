@@ -1,0 +1,10 @@
+Heroku URL - https://nodejs-filesystem-shruthi.herokuapp.com/
+
+API Endpoints Details-
+1)https://nodejs-filesystem-shruthi.herokuapp.com/- Will display the welcome message on the home screen
+2)https://nodejs-filesystem-shruthi.herokuapp.com/filesystem/create-file- API to create a new file with the timestamp as the content and the file name in the format of current date-time.txt.If the given folder does not exist, a new directory is created.
+3) https://nodejs-filesystem-shruthi.herokuapp.com/filesystem/retrieve-files- API to retrieve the files at a given folder.
+
+GitHub Repository URL - https://github.com/Shruthi789/nodejs-filesystem
+
+Last committed Hash ID- 45f27170d3f5d5053ab4696cb7ec033ff5a2eadb
